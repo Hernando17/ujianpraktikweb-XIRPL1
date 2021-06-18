@@ -1,0 +1,12 @@
+.posisi {
+  display: flex;
+  float: left;
+  margin-left: 195px;
+}
+
+@media (max-width: 750px) {
+  .posisi {
+    float: left;
+    margin-left: 0px;
+  }
+}
